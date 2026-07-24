@@ -1,47 +1,36 @@
-# 夏尾 / Cing
+<div align="center">
 
-独立产品构建者。正在探索一个人如何借助 AI，完成研究、设计、开发、运营与商业验证。
+![Creative AI / Editorial](https://capsule-render.vercel.app/api?type=waving&color=0:17251D,100:C9F36A&height=170&section=header&text=LIN%20—%20AI%20CREATOR&fontColor=F4F4E9&fontSize=34&animation=fadeIn)
 
-> 人做判断，AI 做杠杆。
+### AI 影像创作者与独立产品人
 
-## 正在构建
+把想象、提示词和工作流，做成可以观看、体验与复用的作品。
 
-### The OPC App
+[观看作品](https://example.com) · [合作邀约](mailto:hello@example.com) · [订阅更新](https://example.com)
 
-一个面向一人公司的商业操作系统。
+</div>
 
-把一个模糊的想法变成可亲手搭建的商业流：看清用户、价值、行动、收入、交付与反馈；在现实发生前先做沙盘推演，发生后再记录、复盘和迭代。
+---
 
-### Voke
+## 正在创作
 
-一个 macOS 原生外设控制产品。让外设不只是硬件，而成为可以被个人工作流真正编排的界面。
+- 🎬 **Signal Garden** — 一组关于城市情绪的 AI 影像实验
+- ✦ **Prompt Atlas** — 给普通创作者使用的 AI 工作流资料库
+- ✎ **Soft Machines** — 人与智能体共同创作的短篇写作计划
 
-### NanoBananaPPT
+## 我的媒介
 
-从想法、输入材料与参考来源出发，生成清晰、有结构的信息图与演示内容的 AI 创作工具。
+![AI Video](https://img.shields.io/badge/AI%20Video-C9F36A?style=for-the-badge&logo=runway&logoColor=17251D)
+![Image](https://img.shields.io/badge/AI%20Image-75D7FF?style=for-the-badge&logo=adobe&logoColor=17251D)
+![Writing](https://img.shields.io/badge/Writing-FF8B59?style=for-the-badge&logo=notion&logoColor=17251D)
+![Creative Tools](https://img.shields.io/badge/Creative%20Tools-252D28?style=for-the-badge&logo=github&logoColor=C9F36A)
 
-### Anime Creator
+## 创作笔记
 
-面向漫画与动漫视频创作的工具，帮助创作者把灵感推进为可以持续生产的内容流程。
+> 作品不该被平台格式限制；它应该留下过程、版本与被重新使用的可能。
 
-## 我在解决的问题
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=C9F36A&icon_color=75D7FF&text_color=9BA39D&bg_color=101613)
 
-- 一个人如何建立可长期运转的业务，而不是一次性项目
-- AI 如何真正参与研究、生产、交付与复盘
-- 如何把一个想法变成可验证的产品与商业闭环
-- 如何让创作者拥有更低摩擦、更可复用的生产工具
+---
 
-## 我的工作方式
-
-`真实问题 → 最小可用产品 → 现实反馈 → 迭代下一轮`
-
-我偏好先做一个能被真实用户使用的版本，再把结果、成本与判断沉淀进系统。
-
-## 现在
-
-正在持续构建 The OPC App，并运行第一批由人和 AI 一起完成的产品实验。
-
-## 联系
-
-- Email: [hello@theopcapp.com](mailto:hello@theopcapp.com)
-- Product: [The OPC App](https://theopcapp.com)
+<sub>这个主页由 Creative AI / Editorial skin 生成。将 YOUR_GITHUB_USERNAME、链接与项目内容替换为你自己的内容。</sub>
