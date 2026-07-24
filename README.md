@@ -1,36 +1,138 @@
-<div align="center">
+<!-- ========================================================
+  🎓 GitHub Profile README — The Academic & Bootcamp Graduate
+  Perfect for CS students and recent bootcamp completers.
+  Replace all placeholders with your own information!
+  ======================================================== -->
 
-![Creative AI / Editorial](https://capsule-render.vercel.app/api?type=waving&color=0:17251D,100:C9F36A&height=170&section=header&text=LIN%20—%20AI%20CREATOR&fontColor=F4F4E9&fontSize=34&animation=fadeIn)
+# 🎓 Hi, I'm Maya Johnson! 👋
 
-### AI 影像创作者与独立产品人
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=CS+Graduate+%7C+Class+of+2024;Full-Stack+Developer+in+Training;Open+to+Entry-Level+SWE+Roles;Building+things+that+matter+%F0%9F%8C%B1;Always+learning%2C+always+growing!" alt="Typing SVG" />
+</p>
 
-把想象、提示词和工作流，做成可以观看、体验与复用的作品。
-
-[观看作品](https://example.com) · [合作邀约](mailto:hello@example.com) · [订阅更新](https://example.com)
-
-</div>
-
----
-
-## 正在创作
-
-- 🎬 **Signal Garden** — 一组关于城市情绪的 AI 影像实验
-- ✦ **Prompt Atlas** — 给普通创作者使用的 AI 工作流资料库
-- ✎ **Soft Machines** — 人与智能体共同创作的短篇写作计划
-
-## 我的媒介
-
-![AI Video](https://img.shields.io/badge/AI%20Video-C9F36A?style=for-the-badge&logo=runway&logoColor=17251D)
-![Image](https://img.shields.io/badge/AI%20Image-75D7FF?style=for-the-badge&logo=adobe&logoColor=17251D)
-![Writing](https://img.shields.io/badge/Writing-FF8B59?style=for-the-badge&logo=notion&logoColor=17251D)
-![Creative Tools](https://img.shields.io/badge/Creative%20Tools-252D28?style=for-the-badge&logo=github&logoColor=C9F36A)
-
-## 创作笔记
-
-> 作品不该被平台格式限制；它应该留下过程、版本与被重新使用的可能。
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=C9F36A&icon_color=75D7FF&text_color=9BA39D&bg_color=101613)
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-F43F5E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:maya@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=F43F5E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ---
 
-<sub>这个主页由 Creative AI / Editorial skin 生成。将 YOUR_GITHUB_USERNAME、链接与项目内容替换为你自己的内容。</sub>
+## 👩‍💻 About Me
+
+Fresh CS graduate passionate about building accessible, user-centric web applications.
+I believe great software should be **inclusive by design** and **delightful to use**.
+
+- 🎓 **B.Sc. Computer Science** — State University, 2024 (GPA: 3.8/4.0)
+- 📍 Based in **Austin, Texas**
+- 🔭 Currently building: A MERN stack social app for local community events
+- 🌱 Learning: **Next.js, PostgreSQL, System Design fundamentals**
+- 🎯 Goal: Land my first **Software Engineer role** by Q3 2024
+- 🤝 Open to: **Internships, entry-level SWE roles, and pair programming sessions**
+- ⚡ Fun fact: I switched from pre-med to CS after building my first Python script — no regrets!
+
+---
+
+## 🎓 Education Timeline
+
+### 🏫 B.Sc. Computer Science · State University
+**September 2020 – May 2024** | GPA: 3.8/4.0
+
+- 📚 Relevant Coursework: Data Structures, Algorithms, Database Systems, OS, Networks, AI/ML, Software Engineering
+- 🏆 Awards: Dean's List (6 semesters), Best Capstone Project (2024 cohort)
+- 🧑‍🤝‍🧑 Clubs: Women in CS, Hackathon Club Organiser, ACM Student Chapter
+
+### 💻 Full-Stack Web Development Bootcamp · [Bootcamp Name]
+**January 2024 – April 2024** | Certificate of Completion
+
+- 🛠️ Built 8 full-stack projects over 12 weeks
+- 🌐 Stack: MERN (MongoDB, Express, React, Node.js)
+- 👥 Pair-programmed with 20+ developers from 12 countries
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+### 🌐 CommunityConnect — Social Event Platform
+> *Full-Stack Capstone Project (2024)*
+
+A MERN stack web app that helps local communities discover and organise neighbourhood events.
+
+**Features:** User auth with JWT, event CRUD, real-time chat with Socket.io, interactive maps, mobile-responsive design.
+
+**Stack:** React · Node.js · Express · MongoDB · Socket.io · Mapbox API · Tailwind CSS
+
+[📱 Live Demo](https://communityconnect.vercel.app) | [📂 Source Code](https://github.com/your-username/communityconnect) | ⭐ 34 stars
+
+---
+
+### 🛒 ShopSmart — E-Commerce Platform
+> *Bootcamp Final Project (2024)*
+
+A fully functional e-commerce platform with payment integration.
+
+**Stack:** React · Node.js · PostgreSQL · Stripe API · AWS S3
+
+[📱 Live Demo](https://shopsmart.vercel.app) | [📂 Source Code](https://github.com/your-username/shopsmart)
+
+---
+
+### 🤖 StudyBuddy — AI-Powered Flashcard App
+> *Personal Project (2023)*
+
+A flashcard app using spaced repetition and OpenAI to generate contextual hints.
+
+**Stack:** Python · Flask · OpenAI API · SQLite · Vanilla JS
+
+[📂 Source Code](https://github.com/your-username/studybuddy)
+
+---
+
+## 📊 My GitHub Journey
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F43F5E&icon_color=F43F5E&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F43F5E" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm actively looking for my first SWE role. If you're hiring, collaborating on open source, or just want to chat about tech and learning — reach out!
+
+> 💼 **Open to:** Entry-level SWE · Front-End Engineer · Full-Stack roles · Remote-friendly
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+<p align="center"><i>🌱 From <a href="https://github.com/your-username">your-username</a> — Every expert was once a beginner. 💪</i></p>
